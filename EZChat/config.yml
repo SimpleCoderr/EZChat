@@ -1,0 +1,7 @@
+#File Configuration for EZChat
+Messages:
+  disabled: 'Chat disabled by $locker'
+  unlocked: 'Chat unlocked by $locker'
+  personaldisabled: 'Your chat was disabled by $locker'
+  cleared: 'Chat was cleared by $locker'
+  line: '=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-'

@@ -1,0 +1,8 @@
+name: EZChat
+main: me.simplecoder.ezchat.EZChat
+version: 1.0
+author: [SimpleCoder]
+description: EZChat Management baby.
+commands:
+  ec:
+    description: See all commands
