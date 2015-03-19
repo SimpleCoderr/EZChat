@@ -49,7 +49,7 @@ public class EZChat
   
   public boolean onCommand(CommandSender sender, Command command, String label, String[] args)
   {
-    if (command.getLabel().equalsIgnoreCase("tc")) {
+    if (command.getLabel().equalsIgnoreCase("ec")) {
       if (args.length == 0) {
         showHelp(sender);
       } else if (args.length == 1)
